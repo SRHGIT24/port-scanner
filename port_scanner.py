@@ -1,4 +1,4 @@
-# ===============================================n# Simple Port Scanner (Educational Demo)n# Author: Your Namen# Usage: python3 port_scanner.py --host localhost --start 7990 --end 8010n# NOTE: Run this only on your own machine (localhost).n# IPs in example outputs are sanitized (xx.xxx.xxx).n# ===============================================n
+# ===============================================n# Simple Port Scanner (Educational Demo) Usage: python3 port_scanner.py --host localhost --start 7990 --end 8010n# NOTE: Run this only on your own machine (localhost).n# IPs in example outputs are sanitized (xx.xxx.xxx).n# ===============================================n
 #!/usr/bin/env python3
 # Simple multithreaded port scanner with optional banner grabbing and JSON output.
 # Safe-demo note: test on localhost (localhost) only.
