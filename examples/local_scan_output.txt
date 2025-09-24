@@ -1,0 +1,5 @@
+Scanning xx.xxx.xxx (xx.xxx.xxx) ports 7990-8010 with 50 threads. UDP=False banner=True
+
+Scan completed in 0.61s
+Open TCP ports:
+ - 8000
